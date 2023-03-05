@@ -2,7 +2,7 @@ import React from 'react'
 import classes from './portfolio.module.css';
 const Portfolio = () => {
   return (
-    <div>Portfolio</div>
+    <section id='portfolio'>Portfolio</section>
   )
 }
 
