@@ -59,6 +59,7 @@ h1{
 
 section{
     margin-top: 8rem;
+    height: 100vh;
 }
 
 section > h2,section>h5{
@@ -80,7 +81,7 @@ a:hover{
     color: var(--color-white);
 }
 
-.bth{
+.btn{
     width: max-content;
     display: inline-block;
     color: var(--color-primary);
@@ -88,15 +89,16 @@ a:hover{
     cursor: pointer;
     border: 1px solid var(--color-primary);
     transition: var(--transition);
+    border-radius: 3px;
 }
 
-.bth:hover{
+.btn:hover{
     background: var(--color-white);
     color: var(--color-bg);
     border-color: transparent;
 }
 
-.bth-primary{
+.btn-primary{
     background: var(--color-primary);
     color: var(--color-bg);
 }
