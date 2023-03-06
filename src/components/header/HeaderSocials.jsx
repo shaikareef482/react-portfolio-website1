@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 import {BsLinkedin} from 'react-icons/bs';
 import {SiGithub} from 'react-icons/si';
