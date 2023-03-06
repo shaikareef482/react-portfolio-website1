@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react'
 import classes from './nav.module.css'
 import {AiOutlineHome, AiOutlineUser, AiOutlineContacts} from "react-icons/ai"
