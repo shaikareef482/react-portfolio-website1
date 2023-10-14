@@ -1,7 +1,7 @@
 /* eslint-disable */
 import React from "react";
 import classes from "./portfolio.module.css";
-import IMG1 from "../../assets/portfolio1.jpg";
+import IMG1 from "../../assets/ChatApplication_image.jpg";
 import IMG2 from "../../assets/portfolio2.jpg";
 import IMG3 from "../../assets/portfolio3.jpg";
 import IMG4 from "../../assets/portfolio4.jpg";
@@ -12,8 +12,8 @@ const data = [
     id: 1,
     image: IMG1,
     title: "myNotes",
-    github: "https://github.com",
-    demo: "https://mynotes.com/",
+    github: "https://github.com/shaikareef482/Chat-Application",
+    demo: "https://chatapp-web.onrender.com",
   },
   {
     id: 2,
