@@ -2,7 +2,7 @@
 import React from "react";
 import classes from "./portfolio.module.css";
 import IMG1 from "../../assets/ChatApplication_image.jpg";
-import IMG2 from "../../assets/portfolio2.jpg";
+import IMG2 from "../../assets/E-shop.jpg";
 import IMG3 from "../../assets/portfolio3.jpg";
 import IMG4 from "../../assets/portfolio4.jpg";
 import IMG5 from "../../assets/portfolio5.png";
@@ -18,9 +18,9 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: "AiRT",
-    github: "https://github.com",
-    demo: "https://airt.app/",
+    title: "E-shop Application",
+    github: "https://github.com/shaikareef482/E-shop",
+    demo: "https://e-shop-3gtp.onrender.com/",
   },
   {
     id: 3,
